@@ -7,7 +7,7 @@
                 <code v-text="'<Button>'"></code>
                 below
             </p>
-            <Button type="primary">Button</Button>
+            <i-button type="primary">Button</i-button>
         </div>
     </div>
 </template>
